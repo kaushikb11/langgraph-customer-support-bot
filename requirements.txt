@@ -1,0 +1,6 @@
+pandas
+requests
+openai
+portkey-ai
+langchain-openai
+langchain-community
