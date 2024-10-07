@@ -24,3 +24,9 @@ The Swiss Airlines Customer Support Assistant is designed to handle various cust
 1. **Safety Measures**: The system implements a two-tier tool system (safe and sensitive) to ensure proper handling of critical operations.
 
 1. **User Approval for Sensitive Actions**: Before executing sensitive operations, the system requests user approval, adding an extra layer of security.
+
+## System Architecture
+
+![Swiss Airlines Customer Support Assistant Architecture](graph_diagram.png)
+
+The image above illustrates the architecture of the Swiss Airlines Customer Support Assistant, showing the flow between different components and specialized assistants.
