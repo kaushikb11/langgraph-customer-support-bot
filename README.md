@@ -30,3 +30,12 @@ The Swiss Airlines Customer Support Assistant is designed to handle various cust
 ![Swiss Airlines Customer Support Assistant Architecture](graph_diagram.png)
 
 The image above illustrates the architecture of the Swiss Airlines Customer Support Assistant, showing the flow between different components and specialized assistants.
+
+## Testing with Guardrails AI
+
+The primary purpose of this project is to demonstrate and test the effectiveness of the Customer Support Bot with and without Guardrails AI integration. This comparison allows us to showcase how Guardrails can enhance the reliability, safety, and overall performance of the bot.
+
+## Inspiration and Reference
+
+This project is inspired by and builds upon the LangGraph Customer Support tutorial. For more details, see:
+[LangGraph Customer Support Tutorial](https://langchain-ai.github.io/langgraph/tutorials/customer-support/customer-support/)
